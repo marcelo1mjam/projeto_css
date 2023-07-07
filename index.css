@@ -35,6 +35,10 @@ button{
 
 
 /*HEADER*/
+
+header, footer{
+    background: chocolate;
+}
 header div h1 {
     color:darkred;
     display: flex;
